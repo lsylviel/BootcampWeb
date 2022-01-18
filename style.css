@@ -15,7 +15,7 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
 
 nav 
 {
-    position: fixed; top: 10px; left: 0px;
+    position: fixed; top: 20px; left: 0px;
     height: 50px;
     width: 100%;
 }
