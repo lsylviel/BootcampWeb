@@ -43,6 +43,5 @@ nav a
 
 nav a:hover /* survol de la souris */
 {
-    color: peru;
-    border-bottom: 3px solid #ffffff;
+    background-color: cadetblue;
 }
