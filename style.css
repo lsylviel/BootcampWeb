@@ -15,7 +15,7 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
 
 nav 
 {
-    position: fixed; top: 0px; left: 0px;
+    position: fixed; top: 10px; left: 0px;
     height: 50px;
     width: 100%;
 }
@@ -30,7 +30,7 @@ nav ul
 
 nav li
 {
-    margin-right: 50px; /* marge à droite de chaque nav de 40 px*/
+    margin-right: 50px; /* marge à droite de chaque nav de 50 px*/
 }
 
 nav a
