@@ -45,3 +45,23 @@ nav a:hover /* survol de la souris */
 {
     background-color: cadetblue;
 }
+
+.mobile-menu {
+    display: none;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    height: calc(100vh - 50px);
+    width: 100%;
+  }
+  
+  .open .mobile-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  
+  .mobile-menu li {
+    margin-bottom: 10px;
+  }
