@@ -8,6 +8,12 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
     font-family: ;
 }
 
+#bloc_page /* Fond légérement transparent du bloc de la page */
+{
+    background-color: #ffffff;
+    opacity: 0,33;
+}
+
 /*-------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------*/
 
@@ -48,3 +54,4 @@ nav a:hover /* survol de la souris */
     border-bottom: 3px solid cadetblue;
     padding: 10px;
 }
+
