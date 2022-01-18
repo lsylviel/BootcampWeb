@@ -12,6 +12,8 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
 {
     background-color: #ffffff;
     opacity: 0,33;
+    background-color: rgba(255, 255, 255, 0.5)
+
 }
 
 /*-------------------------------------------------------------------------------------------------------
