@@ -8,12 +8,9 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
     font-family: ;
 }
 
-body #bloc_page #container_center /* Fond légérement transparent du bloc de la page */
+#bloc_page  /* Fond légérement transparent du bloc de la page */
 {
-    background-color: #ffffff;
-   /* opacity: 0,33;
-    background-color: rgba(255, 255, 255, 0.5)*/
-
+    background-color: rgba(255, 255, 255, 0.5)
 }
 
 /*-------------------------------------------------------------------------------------------------------
