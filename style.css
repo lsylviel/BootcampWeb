@@ -19,3 +19,30 @@ nav
     height: 50px;
     width: 100%;
 }
+
+nav ul
+{
+    list-style-type: none; /* enlève l'image ronde servant de puce */
+    display: flex; /* menu en ligne côte à côte */ 
+    justify-content: center;
+    align-items: flex-end; /*alignés à la fin*/
+}
+
+nav li
+{
+    margin-right: 40px; /* marge à droite de chaque nav de 40 px*/
+}
+
+nav a
+{
+    font-size: 20px;
+    color: #ffffff;
+    padding-bottom: 3px;
+    text-decoration: none; /*le menu ne sera plus souligné*/
+}
+
+nav a:hover /* survol de la souris */
+{
+    color: peru;
+    border-bottom: 3px solid #ffffff;
+}
