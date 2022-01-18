@@ -5,7 +5,7 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
     background-repeat: no-repeat; /* Le fond ne sera pas répété */
     background-position: top right; /* Le fond sera placé en haut à droite */
     background-size: cover; /* Le fond prend toute la dimension de la page sans perte de qualité */
-    font-family: ;
+    font-family: 'StopBullying';
 }
 
 #bloc_page  /* Fond légérement transparent du bloc de la page */
